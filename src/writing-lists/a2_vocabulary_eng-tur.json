@@ -1,0 +1,823 @@
+{
+  "learning-language": "Turkish",
+  "system-language": "English",
+  "title": "Turkish A2 Vocabulary List",
+  "words": [
+    {
+      "word": "seyahat",
+      "meaning": "travel",
+      "relevantWords": [
+        "journey",
+        "trip",
+        "vacation",
+        "flight",
+        "explore"
+      ],
+      "emoji": "✈️"
+    },
+    {
+      "word": "hava durumu",
+      "meaning": "weather",
+      "relevantWords": [
+        "rain",
+        "sunny",
+        "cloudy",
+        "temperature",
+        "forecast"
+      ],
+      "emoji": "⛅"
+    },
+    {
+      "word": "tatil",
+      "meaning": "vacation",
+      "relevantWords": [
+        "holiday",
+        "beach",
+        "trip",
+        "relax",
+        "travel"
+      ],
+      "emoji": "🏖️"
+    },
+    {
+      "word": "egzersiz",
+      "meaning": "exercise",
+      "relevantWords": [
+        "workout",
+        "fitness",
+        "gym",
+        "run",
+        "health"
+      ],
+      "emoji": "🏋️"
+    },
+    {
+      "word": "mesaj",
+      "meaning": "message",
+      "relevantWords": [
+        "text",
+        "email",
+        "note",
+        "call",
+        "communication"
+      ],
+      "emoji": "📩"
+    },
+    {
+      "word": "toplantı",
+      "meaning": "meeting",
+      "relevantWords": [
+        "discussion",
+        "appointment",
+        "conference",
+        "talk",
+        "gathering"
+      ],
+      "emoji": "👥"
+    },
+    {
+      "word": "dil",
+      "meaning": "language",
+      "relevantWords": [
+        "speech",
+        "words",
+        "communication",
+        "grammar",
+        "vocabulary"
+      ],
+      "emoji": "🗣️"
+    },
+    {
+      "word": "lezzetli",
+      "meaning": "delicious",
+      "relevantWords": [
+        "tasty",
+        "yummy",
+        "flavorful",
+        "sweet",
+        "appetizing"
+      ],
+      "emoji": "😋"
+    },
+    {
+      "word": "komşu",
+      "meaning": "neighbor",
+      "relevantWords": [
+        "friend",
+        "next-door",
+        "community",
+        "resident",
+        "block"
+      ],
+      "emoji": "🏘️"
+    },
+    {
+      "word": "restoran",
+      "meaning": "restaurant",
+      "relevantWords": [
+        "food",
+        "menu",
+        "dinner",
+        "meal",
+        "waiter"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "word": "randevu",
+      "meaning": "appointment",
+      "relevantWords": [
+        "meeting",
+        "schedule",
+        "doctor",
+        "plan",
+        "calendar"
+      ],
+      "emoji": "📅"
+    },
+    {
+      "word": "hastane",
+      "meaning": "hospital",
+      "relevantWords": [
+        "doctor",
+        "nurse",
+        "patient",
+        "clinic",
+        "medicine"
+      ],
+      "emoji": "🏥"
+    },
+    {
+      "word": "pazar",
+      "meaning": "market",
+      "relevantWords": [
+        "shop",
+        "buy",
+        "food",
+        "stall",
+        "vendor"
+      ],
+      "emoji": "🛒"
+    },
+    {
+      "word": "kıyafet",
+      "meaning": "clothes",
+      "relevantWords": [
+        "shirt",
+        "dress",
+        "pants",
+        "fashion",
+        "wear"
+      ],
+      "emoji": "👗"
+    },
+    {
+      "word": "doğum günü",
+      "meaning": "birthday",
+      "relevantWords": [
+        "cake",
+        "party",
+        "gift",
+        "celebrate",
+        "balloons"
+      ],
+      "emoji": "🎂"
+    },
+    {
+      "word": "tavsiye",
+      "meaning": "advice",
+      "relevantWords": [
+        "suggestion",
+        "help",
+        "tip",
+        "recommendation",
+        "guidance"
+      ],
+      "emoji": "💬"
+    },
+    {
+      "word": "bilet",
+      "meaning": "ticket",
+      "relevantWords": [
+        "entry",
+        "pass",
+        "event",
+        "train",
+        "cinema"
+      ],
+      "emoji": "🎫"
+    },
+    {
+      "word": "adres",
+      "meaning": "address",
+      "relevantWords": [
+        "location",
+        "street",
+        "city",
+        "house",
+        "number"
+      ],
+      "emoji": "🏠"
+    },
+    {
+      "word": "hafta sonu",
+      "meaning": "weekend",
+      "relevantWords": [
+        "Saturday",
+        "Sunday",
+        "rest",
+        "fun",
+        "break"
+      ],
+      "emoji": "📆"
+    },
+    {
+      "word": "kültür",
+      "meaning": "culture",
+      "relevantWords": [
+        "tradition",
+        "custom",
+        "language",
+        "belief",
+        "heritage"
+      ],
+      "emoji": "🌍"
+    },
+    {
+      "word": "havaalanı",
+      "meaning": "airport",
+      "relevantWords": [
+        "plane",
+        "flight",
+        "travel",
+        "terminal",
+        "passenger"
+      ],
+      "emoji": "🛫"
+    },
+    {
+      "word": "cevap",
+      "meaning": "answer",
+      "relevantWords": [
+        "reply",
+        "respond",
+        "solution",
+        "say",
+        "talk"
+      ],
+      "emoji": "💬"
+    },
+    {
+      "word": "sanatçı",
+      "meaning": "artist",
+      "relevantWords": [
+        "paint",
+        "draw",
+        "creative",
+        "gallery",
+        "talent"
+      ],
+      "emoji": "🎨"
+    },
+    {
+      "word": "sonbahar",
+      "meaning": "autumn",
+      "relevantWords": [
+        "fall",
+        "leaves",
+        "cool",
+        "season",
+        "tree"
+      ],
+      "emoji": "🍂"
+    },
+    {
+      "word": "çanta",
+      "meaning": "bag",
+      "relevantWords": [
+        "backpack",
+        "carry",
+        "pocket",
+        "zipper",
+        "item"
+      ],
+      "emoji": "🎒"
+    },
+    {
+      "word": "banka",
+      "meaning": "bank",
+      "relevantWords": [
+        "money",
+        "account",
+        "deposit",
+        "cash",
+        "loan"
+      ],
+      "emoji": "🏦"
+    },
+    {
+      "word": "plaj",
+      "meaning": "beach",
+      "relevantWords": [
+        "sand",
+        "sea",
+        "sun",
+        "vacation",
+        "swim"
+      ],
+      "emoji": "🏖️"
+    },
+    {
+      "word": "güzel",
+      "meaning": "beautiful",
+      "relevantWords": [
+        "pretty",
+        "lovely",
+        "nice",
+        "attractive",
+        "charming"
+      ],
+      "emoji": "🌸"
+    },
+    {
+      "word": "bisiklet",
+      "meaning": "bike",
+      "relevantWords": [
+        "cycle",
+        "ride",
+        "pedal",
+        "helmet",
+        "road"
+      ],
+      "emoji": "🚲"
+    },
+    {
+      "word": "battaniye",
+      "meaning": "blanket",
+      "relevantWords": [
+        "warm",
+        "bed",
+        "sleep",
+        "soft",
+        "cover"
+      ],
+      "emoji": "🛌"
+    },
+    {
+      "word": "kahvaltı",
+      "meaning": "breakfast",
+      "relevantWords": [
+        "morning",
+        "meal",
+        "food",
+        "eat",
+        "toast"
+      ],
+      "emoji": "🥞"
+    },
+    {
+      "word": "köprü",
+      "meaning": "bridge",
+      "relevantWords": [
+        "cross",
+        "river",
+        "road",
+        "build",
+        "path"
+      ],
+      "emoji": "🌉"
+    },
+    {
+      "word": "kamera",
+      "meaning": "camera",
+      "relevantWords": [
+        "photo",
+        "picture",
+        "lens",
+        "flash",
+        "record"
+      ],
+      "emoji": "📷"
+    },
+    {
+      "word": "iptal etmek",
+      "meaning": "cancel",
+      "relevantWords": [
+        "stop",
+        "end",
+        "close",
+        "call off",
+        "remove"
+      ],
+      "emoji": "❌"
+    },
+    {
+      "word": "ucuz",
+      "meaning": "cheap",
+      "relevantWords": [
+        "low price",
+        "discount",
+        "sale",
+        "bargain",
+        "affordable"
+      ],
+      "emoji": "💸"
+    },
+    {
+      "word": "tavuk",
+      "meaning": "chicken",
+      "relevantWords": [
+        "meat",
+        "egg",
+        "farm",
+        "animal",
+        "food"
+      ],
+      "emoji": "🐔"
+    },
+    {
+      "word": "sinema",
+      "meaning": "cinema",
+      "relevantWords": [
+        "movie",
+        "film",
+        "screen",
+        "ticket",
+        "popcorn"
+      ],
+      "emoji": "🎬"
+    },
+    {
+      "word": "bulut",
+      "meaning": "cloud",
+      "relevantWords": [
+        "sky",
+        "rain",
+        "weather",
+        "float",
+        "storm"
+      ],
+      "emoji": "☁️"
+    },
+    {
+      "word": "kahve",
+      "meaning": "coffee",
+      "relevantWords": [
+        "drink",
+        "hot",
+        "morning",
+        "cup",
+        "caffeine"
+      ],
+      "emoji": "☕"
+    },
+    {
+      "word": "bilgisayar",
+      "meaning": "computer",
+      "relevantWords": [
+        "keyboard",
+        "screen",
+        "internet",
+        "type",
+        "mouse"
+      ],
+      "emoji": "💻"
+    },
+    {
+      "word": "kırsal",
+      "meaning": "countryside",
+      "relevantWords": [
+        "rural",
+        "field",
+        "farm",
+        "nature",
+        "village"
+      ],
+      "emoji": "🏞️"
+    },
+    {
+      "word": "ağlamak",
+      "meaning": "cry",
+      "relevantWords": [
+        "tears",
+        "sad",
+        "emotion",
+        "feel",
+        "hurt"
+      ],
+      "emoji": "😭"
+    },
+    {
+      "word": "müşteri",
+      "meaning": "customer",
+      "relevantWords": [
+        "buy",
+        "shop",
+        "pay",
+        "client",
+        "store"
+      ],
+      "emoji": "🛍️"
+    },
+    {
+      "word": "tehlikeli",
+      "meaning": "dangerous",
+      "relevantWords": [
+        "risk",
+        "harm",
+        "unsafe",
+        "caution",
+        "hurt"
+      ],
+      "emoji": "⚠️"
+    },
+    {
+      "word": "departman",
+      "meaning": "department",
+      "relevantWords": [
+        "office",
+        "section",
+        "group",
+        "division",
+        "unit"
+      ],
+      "emoji": "🏢"
+    },
+    {
+      "word": "sözlük",
+      "meaning": "dictionary",
+      "relevantWords": [
+        "book",
+        "words",
+        "meanings",
+        "definition",
+        "language"
+      ],
+      "emoji": "📖"
+    },
+    {
+      "word": "doktor",
+      "meaning": "doctor",
+      "relevantWords": [
+        "hospital",
+        "medicine",
+        "health",
+        "care",
+        "treat"
+      ],
+      "emoji": "👩‍⚕️"
+    },
+    {
+      "word": "sürücü",
+      "meaning": "driver",
+      "relevantWords": [
+        "car",
+        "bus",
+        "road",
+        "drive",
+        "license"
+      ],
+      "emoji": "🚗"
+    },
+    {
+      "word": "e-posta",
+      "meaning": "email",
+      "relevantWords": [
+        "message",
+        "send",
+        "mail",
+        "computer",
+        "contact"
+      ],
+      "emoji": "📧"
+    },
+    {
+      "word": "mühendis",
+      "meaning": "engineer",
+      "relevantWords": [
+        "design",
+        "build",
+        "create",
+        "technology",
+        "plan"
+      ],
+      "emoji": "👷"
+    },
+    {
+      "word": "eğlenmek",
+      "meaning": "enjoy",
+      "relevantWords": [
+        "like",
+        "fun",
+        "happy",
+        "pleasure",
+        "smile"
+      ],
+      "emoji": "😄"
+    },
+    {
+      "word": "yeterli",
+      "meaning": "enough",
+      "relevantWords": [
+        "sufficient",
+        "adequate",
+        "full",
+        "complete",
+        "satisfy"
+      ],
+      "emoji": "✔️"
+    },
+    {
+      "word": "çevre",
+      "meaning": "environment",
+      "relevantWords": [
+        "nature",
+        "air",
+        "earth",
+        "green",
+        "planet"
+      ],
+      "emoji": "🌍"
+    },
+    {
+      "word": "pahalı",
+      "meaning": "expensive",
+      "relevantWords": [
+        "costly",
+        "pricey",
+        "luxury",
+        "valuable",
+        "high"
+      ],
+      "emoji": "💰"
+    },
+    {
+      "word": "gerçek",
+      "meaning": "fact",
+      "relevantWords": [
+        "truth",
+        "real",
+        "actual",
+        "know",
+        "evidence"
+      ],
+      "emoji": "📚"
+    },
+    {
+      "word": "ünlü",
+      "meaning": "famous",
+      "relevantWords": [
+        "popular",
+        "well-known",
+        "celebrity",
+        "name",
+        "star"
+      ],
+      "emoji": "🌟"
+    },
+    {
+      "word": "uzak",
+      "meaning": "far",
+      "relevantWords": [
+        "distant",
+        "remote",
+        "away",
+        "long",
+        "travel"
+      ],
+      "emoji": "📍"
+    },
+    {
+      "word": "hızlı",
+      "meaning": "fast",
+      "relevantWords": [
+        "quick",
+        "speed",
+        "rush",
+        "run",
+        "rapid"
+      ],
+      "emoji": "💨"
+    },
+    {
+      "word": "hissetmek",
+      "meaning": "feel",
+      "relevantWords": [
+        "emotion",
+        "touch",
+        "heart",
+        "sense",
+        "mood"
+      ],
+      "emoji": "🤔"
+    },
+    {
+      "word": "festival",
+      "meaning": "festival",
+      "relevantWords": [
+        "celebrate",
+        "music",
+        "party",
+        "food",
+        "parade"
+      ],
+      "emoji": "🎉"
+    },
+    {
+      "word": "son",
+      "meaning": "final",
+      "relevantWords": [
+        "end",
+        "last",
+        "finish",
+        "conclusion",
+        "close"
+      ],
+      "emoji": "🔚"
+    },
+    {
+      "word": "uçuş",
+      "meaning": "flight",
+      "relevantWords": [
+        "plane",
+        "airport",
+        "travel",
+        "air",
+        "ticket"
+      ],
+      "emoji": "🛩️"
+    },
+    {
+      "word": "takip etmek",
+      "meaning": "follow",
+      "relevantWords": [
+        "behind",
+        "track",
+        "next",
+        "copy",
+        "watch"
+      ],
+      "emoji": "👣"
+    },
+    {
+      "word": "unutmak",
+      "meaning": "forget",
+      "relevantWords": [
+        "memory",
+        "lose",
+        "miss",
+        "ignore",
+        "mind"
+      ],
+      "emoji": "❓"
+    },
+    {
+      "word": "dostça",
+      "meaning": "friendly",
+      "relevantWords": [
+        "kind",
+        "nice",
+        "helpful",
+        "polite",
+        "social"
+      ],
+      "emoji": "😊"
+    },
+    {
+      "word": "gelecek",
+      "meaning": "future",
+      "relevantWords": [
+        "tomorrow",
+        "later",
+        "plan",
+        "ahead",
+        "soon"
+      ],
+      "emoji": "🔮"
+    },
+    {
+      "word": "hediye",
+      "meaning": "gift",
+      "relevantWords": [
+        "present",
+        "box",
+        "wrap",
+        "surprise",
+        "offer"
+      ],
+      "emoji": "🎁"
+    },
+    {
+      "word": "gözlük",
+      "meaning": "glasses",
+      "relevantWords": [
+        "eyes",
+        "vision",
+        "wear",
+        "frame",
+        "sight"
+      ],
+      "emoji": "👓"
+    }
+  ]
+}

@@ -1,0 +1,847 @@
+{
+  "learning-language": "Turkish",
+  "system-language": "English",
+  "title": "Turkish A1 Vocabulary List",
+  "words": [
+    {
+      "word": "elma",
+      "meaning": "apple",
+      "relevantWords": [
+        "fruit",
+        "sweet",
+        "tree",
+        "red",
+        "healthy"
+      ],
+      "emoji": "🍎"
+    },
+    {
+      "word": "kitap",
+      "meaning": "book",
+      "relevantWords": [
+        "read",
+        "pages",
+        "library",
+        "story",
+        "cover"
+      ],
+      "emoji": "📘"
+    },
+    {
+      "word": "kedi",
+      "meaning": "cat",
+      "relevantWords": [
+        "animal",
+        "pet",
+        "meow",
+        "fur",
+        "cute"
+      ],
+      "emoji": "🐱"
+    },
+    {
+      "word": "köpek",
+      "meaning": "dog",
+      "relevantWords": [
+        "animal",
+        "pet",
+        "bark",
+        "tail",
+        "friend"
+      ],
+      "emoji": "🐶"
+    },
+    {
+      "word": "su",
+      "meaning": "water",
+      "relevantWords": [
+        "drink",
+        "liquid",
+        "cold",
+        "glass",
+        "clean"
+      ],
+      "emoji": "💧"
+    },
+    {
+      "word": "güneş",
+      "meaning": "sun",
+      "relevantWords": [
+        "light",
+        "sky",
+        "hot",
+        "yellow",
+        "day"
+      ],
+      "emoji": "☀️"
+    },
+    {
+      "word": "sandalye",
+      "meaning": "chair",
+      "relevantWords": [
+        "sit",
+        "furniture",
+        "legs",
+        "wood",
+        "back"
+      ],
+      "emoji": "🪑"
+    },
+    {
+      "word": "masa",
+      "meaning": "table",
+      "relevantWords": [
+        "furniture",
+        "legs",
+        "flat",
+        "wood",
+        "dining"
+      ],
+      "emoji": "📏"
+    },
+    {
+      "word": "araba",
+      "meaning": "car",
+      "relevantWords": [
+        "drive",
+        "road",
+        "vehicle",
+        "fast",
+        "wheel"
+      ],
+      "emoji": "🚗"
+    },
+    {
+      "word": "okul",
+      "meaning": "school",
+      "relevantWords": [
+        "learn",
+        "class",
+        "teacher",
+        "student",
+        "education"
+      ],
+      "emoji": "🏫"
+    },
+    {
+      "word": "öğretmen",
+      "meaning": "teacher",
+      "relevantWords": [
+        "school",
+        "lesson",
+        "classroom",
+        "student",
+        "help"
+      ],
+      "emoji": "👩‍🏫"
+    },
+    {
+      "word": "kalem",
+      "meaning": "pen",
+      "relevantWords": [
+        "write",
+        "ink",
+        "paper",
+        "blue",
+        "hand"
+      ],
+      "emoji": "🖊️"
+    },
+    {
+      "word": "süt",
+      "meaning": "milk",
+      "relevantWords": [
+        "drink",
+        "white",
+        "glass",
+        "cow",
+        "cold"
+      ],
+      "emoji": "🥛"
+    },
+    {
+      "word": "ekmek",
+      "meaning": "bread",
+      "relevantWords": [
+        "food",
+        "toast",
+        "eat",
+        "flour",
+        "slice"
+      ],
+      "emoji": "🍞"
+    },
+    {
+      "word": "muz",
+      "meaning": "banana",
+      "relevantWords": [
+        "fruit",
+        "yellow",
+        "sweet",
+        "peel",
+        "tree"
+      ],
+      "emoji": "🍌"
+    },
+    {
+      "word": "ev",
+      "meaning": "house",
+      "relevantWords": [
+        "home",
+        "roof",
+        "door",
+        "family",
+        "room"
+      ],
+      "emoji": "🏠"
+    },
+    {
+      "word": "aile",
+      "meaning": "family",
+      "relevantWords": [
+        "home",
+        "mother",
+        "father",
+        "love",
+        "children"
+      ],
+      "emoji": "👨‍👩‍👧‍👦"
+    },
+    {
+      "word": "anne",
+      "meaning": "mother",
+      "relevantWords": [
+        "parent",
+        "family",
+        "woman",
+        "love",
+        "home"
+      ],
+      "emoji": "👩"
+    },
+    {
+      "word": "baba",
+      "meaning": "father",
+      "relevantWords": [
+        "parent",
+        "family",
+        "man",
+        "home",
+        "love"
+      ],
+      "emoji": "👨"
+    },
+    {
+      "word": "top",
+      "meaning": "ball",
+      "relevantWords": [
+        "game",
+        "sport",
+        "throw",
+        "kick",
+        "play"
+      ],
+      "emoji": "⚽"
+    },
+    {
+      "word": "ağaç",
+      "meaning": "tree",
+      "relevantWords": [
+        "plant",
+        "leaves",
+        "wood",
+        "nature",
+        "green"
+      ],
+      "emoji": "🌳"
+    },
+    {
+      "word": "kuş",
+      "meaning": "bird",
+      "relevantWords": [
+        "fly",
+        "feathers",
+        "egg",
+        "wing",
+        "sky"
+      ],
+      "emoji": "🐦"
+    },
+    {
+      "word": "telefon",
+      "meaning": "phone",
+      "relevantWords": [
+        "call",
+        "talk",
+        "mobile",
+        "ring",
+        "text"
+      ],
+      "emoji": "📱"
+    },
+    {
+      "word": "ayakkabı",
+      "meaning": "shoe",
+      "relevantWords": [
+        "foot",
+        "wear",
+        "walk",
+        "sock",
+        "pair"
+      ],
+      "emoji": "👟"
+    },
+    {
+      "word": "gömlek",
+      "meaning": "shirt",
+      "relevantWords": [
+        "clothes",
+        "wear",
+        "button",
+        "sleeve",
+        "fabric"
+      ],
+      "emoji": "👕"
+    },
+    {
+      "word": "tren",
+      "meaning": "train",
+      "relevantWords": [
+        "track",
+        "station",
+        "travel",
+        "ride",
+        "fast"
+      ],
+      "emoji": "🚆"
+    },
+    {
+      "word": "otobüs",
+      "meaning": "bus",
+      "relevantWords": [
+        "transport",
+        "stop",
+        "ride",
+        "driver",
+        "city"
+      ],
+      "emoji": "🚌"
+    },
+    {
+      "word": "saat",
+      "meaning": "clock",
+      "relevantWords": [
+        "time",
+        "watch",
+        "hour",
+        "minute",
+        "alarm"
+      ],
+      "emoji": "⏰"
+    },
+    {
+      "word": "kapı",
+      "meaning": "door",
+      "relevantWords": [
+        "open",
+        "close",
+        "room",
+        "enter",
+        "lock"
+      ],
+      "emoji": "🚪"
+    },
+    {
+      "word": "pencere",
+      "meaning": "window",
+      "relevantWords": [
+        "glass",
+        "light",
+        "room",
+        "open",
+        "view"
+      ],
+      "emoji": "🪟"
+    },
+    {
+      "word": "şapka",
+      "meaning": "hat",
+      "relevantWords": [
+        "head",
+        "wear",
+        "cap",
+        "sun",
+        "warm"
+      ],
+      "emoji": "🎩"
+    },
+    {
+      "word": "yatak",
+      "meaning": "bed",
+      "relevantWords": [
+        "sleep",
+        "rest",
+        "pillow",
+        "blanket",
+        "night"
+      ],
+      "emoji": "🛏️"
+    },
+    {
+      "word": "bilgisayar",
+      "meaning": "computer",
+      "relevantWords": [
+        "keyboard",
+        "screen",
+        "mouse",
+        "type",
+        "program"
+      ],
+      "emoji": "💻"
+    },
+    {
+      "word": "fare",
+      "meaning": "mouse",
+      "relevantWords": [
+        "click",
+        "scroll",
+        "button",
+        "pointer",
+        "USB"
+      ],
+      "emoji": "🖱️"
+    },
+    {
+      "word": "çanta",
+      "meaning": "bag",
+      "relevantWords": [
+        "carry",
+        "pack",
+        "strap",
+        "pocket",
+        "zipper"
+      ],
+      "emoji": "👜"
+    },
+    {
+      "word": "pasta",
+      "meaning": "cake",
+      "relevantWords": [
+        "sweet",
+        "dessert",
+        "birthday",
+        "bake",
+        "slice"
+      ],
+      "emoji": "🍰"
+    },
+    {
+      "word": "yumurta",
+      "meaning": "egg",
+      "relevantWords": [
+        "breakfast",
+        "cook",
+        "chicken",
+        "shell",
+        "yolk"
+      ],
+      "emoji": "🥚"
+    },
+    {
+      "word": "balık",
+      "meaning": "fish",
+      "relevantWords": [
+        "swim",
+        "water",
+        "sea",
+        "gills",
+        "scale"
+      ],
+      "emoji": "🐟"
+    },
+    {
+      "word": "el",
+      "meaning": "hand",
+      "relevantWords": [
+        "fingers",
+        "touch",
+        "hold",
+        "write",
+        "feel"
+      ],
+      "emoji": "✋"
+    },
+    {
+      "word": "ayak",
+      "meaning": "foot",
+      "relevantWords": [
+        "walk",
+        "shoe",
+        "toe",
+        "kick",
+        "stand"
+      ],
+      "emoji": "🦶"
+    },
+    {
+      "word": "burun",
+      "meaning": "nose",
+      "relevantWords": [
+        "smell",
+        "face",
+        "air",
+        "breathe",
+        "sneeze"
+      ],
+      "emoji": "👃"
+    },
+    {
+      "word": "kulak",
+      "meaning": "ear",
+      "relevantWords": [
+        "hear",
+        "listen",
+        "sound",
+        "head",
+        "noise"
+      ],
+      "emoji": "👂"
+    },
+    {
+      "word": "göz",
+      "meaning": "eye",
+      "relevantWords": [
+        "see",
+        "look",
+        "sight",
+        "face",
+        "blink"
+      ],
+      "emoji": "👁️"
+    },
+    {
+      "word": "ağız",
+      "meaning": "mouth",
+      "relevantWords": [
+        "eat",
+        "talk",
+        "teeth",
+        "tongue",
+        "smile"
+      ],
+      "emoji": "👄"
+    },
+    {
+      "word": "bacak",
+      "meaning": "leg",
+      "relevantWords": [
+        "walk",
+        "run",
+        "knee",
+        "foot",
+        "stand"
+      ],
+      "emoji": "🦵"
+    },
+    {
+      "word": "koşmak",
+      "meaning": "run",
+      "relevantWords": [
+        "fast",
+        "leg",
+        "exercise",
+        "race",
+        "move"
+      ],
+      "emoji": "🏃"
+    },
+    {
+      "word": "zıplamak",
+      "meaning": "jump",
+      "relevantWords": [
+        "up",
+        "air",
+        "bounce",
+        "move",
+        "leg"
+      ],
+      "emoji": "🤸"
+    },
+    {
+      "word": "yüzmek",
+      "meaning": "swim",
+      "relevantWords": [
+        "water",
+        "pool",
+        "float",
+        "stroke",
+        "dive"
+      ],
+      "emoji": "🏊"
+    },
+    {
+      "word": "şarkı söylemek",
+      "meaning": "sing",
+      "relevantWords": [
+        "music",
+        "voice",
+        "song",
+        "note",
+        "melody"
+      ],
+      "emoji": "🎤"
+    },
+    {
+      "word": "dans etmek",
+      "meaning": "dance",
+      "relevantWords": [
+        "music",
+        "move",
+        "step",
+        "rhythm",
+        "fun"
+      ],
+      "emoji": "💃"
+    },
+    {
+      "word": "yemek pişirmek",
+      "meaning": "cook",
+      "relevantWords": [
+        "kitchen",
+        "food",
+        "heat",
+        "meal",
+        "stove"
+      ],
+      "emoji": "👩‍🍳"
+    },
+    {
+      "word": "yemek",
+      "meaning": "eat",
+      "relevantWords": [
+        "food",
+        "meal",
+        "chew",
+        "bite",
+        "swallow"
+      ],
+      "emoji": "🍽️"
+    },
+    {
+      "word": "içmek",
+      "meaning": "drink",
+      "relevantWords": [
+        "water",
+        "glass",
+        "juice",
+        "thirst",
+        "cup"
+      ],
+      "emoji": "🥤"
+    },
+    {
+      "word": "gülmek",
+      "meaning": "laugh",
+      "relevantWords": [
+        "smile",
+        "happy",
+        "funny",
+        "joke",
+        "joy"
+      ],
+      "emoji": "😂"
+    },
+    {
+      "word": "ağlamak",
+      "meaning": "cry",
+      "relevantWords": [
+        "tears",
+        "sad",
+        "hurt",
+        "emotion",
+        "sob"
+      ],
+      "emoji": "😭"
+    },
+    {
+      "word": "mutlu",
+      "meaning": "happy",
+      "relevantWords": [
+        "smile",
+        "joy",
+        "laugh",
+        "fun",
+        "positive"
+      ],
+      "emoji": "😊"
+    },
+    {
+      "word": "üzgün",
+      "meaning": "sad",
+      "relevantWords": [
+        "cry",
+        "unhappy",
+        "tears",
+        "blue",
+        "hurt"
+      ],
+      "emoji": "😢"
+    },
+    {
+      "word": "kızgın",
+      "meaning": "angry",
+      "relevantWords": [
+        "mad",
+        "upset",
+        "shout",
+        "face",
+        "red"
+      ],
+      "emoji": "😠"
+    },
+    {
+      "word": "soğuk",
+      "meaning": "cold",
+      "relevantWords": [
+        "ice",
+        "winter",
+        "freeze",
+        "chill",
+        "cool"
+      ],
+      "emoji": "❄️"
+    },
+    {
+      "word": "sıcak",
+      "meaning": "hot",
+      "relevantWords": [
+        "heat",
+        "sun",
+        "burn",
+        "fire",
+        "warm"
+      ],
+      "emoji": "🔥"
+    },
+    {
+      "word": "büyük",
+      "meaning": "big",
+      "relevantWords": [
+        "large",
+        "huge",
+        "giant",
+        "tall",
+        "wide"
+      ],
+      "emoji": "📏"
+    },
+    {
+      "word": "küçük",
+      "meaning": "small",
+      "relevantWords": [
+        "tiny",
+        "little",
+        "short",
+        "narrow",
+        "mini"
+      ],
+      "emoji": "📐"
+    },
+    {
+      "word": "hızlı",
+      "meaning": "fast",
+      "relevantWords": [
+        "quick",
+        "run",
+        "speed",
+        "race",
+        "swift"
+      ],
+      "emoji": "💨"
+    },
+    {
+      "word": "yavaş",
+      "meaning": "slow",
+      "relevantWords": [
+        "stop",
+        "wait",
+        "lag",
+        "turtle",
+        "delay"
+      ],
+      "emoji": "🐢"
+    },
+    {
+      "word": "kırmızı",
+      "meaning": "red",
+      "relevantWords": [
+        "color",
+        "rose",
+        "apple",
+        "bright",
+        "heart"
+      ],
+      "emoji": "🔴"
+    },
+    {
+      "word": "mavi",
+      "meaning": "blue",
+      "relevantWords": [
+        "color",
+        "sky",
+        "ocean",
+        "calm",
+        "water"
+      ],
+      "emoji": "🔵"
+    },
+    {
+      "word": "yeşil",
+      "meaning": "green",
+      "relevantWords": [
+        "color",
+        "leaf",
+        "tree",
+        "nature",
+        "fresh"
+      ],
+      "emoji": "🟢"
+    },
+    {
+      "word": "sarı",
+      "meaning": "yellow",
+      "relevantWords": [
+        "color",
+        "sun",
+        "light",
+        "banana",
+        "bright"
+      ],
+      "emoji": "🟡"
+    },
+    {
+      "word": "siyah",
+      "meaning": "black",
+      "relevantWords": [
+        "dark",
+        "night",
+        "shadow",
+        "ink",
+        "void"
+      ],
+      "emoji": "⚫"
+    },
+    {
+      "word": "beyaz",
+      "meaning": "white",
+      "relevantWords": [
+        "snow",
+        "light",
+        "clean",
+        "cloud",
+        "milk"
+      ],
+      "emoji": "⚪"
+    }
+  ]
+}

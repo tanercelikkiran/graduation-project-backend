@@ -1,0 +1,450 @@
+{
+    "beginner": [
+        {
+            "id": "B1",
+            "name": "Daily Routine",
+            "fullName": "🕗 Describe your daily routine.",
+            "scenarios": [
+                "Talk about your own daily routine based on real experience.",
+                "You are a student studying abroad and trying to get used to your new life style and new culture.",
+                "You are a robot 🤖 programmed to complete tasks efficiently.",
+                "You are a village child with a peaceful, nature-filled daily life."
+            ]
+        },
+        {
+            "id": "B2",
+            "name": "Hobbies",
+            "fullName": "🎨 What are your hobbies?",
+            "scenarios": [
+                "Talk about your own hobbies based on real experience.",
+                "You live in a small island town. This island is located in the center of the ocean, far from the mainland.",
+                "You are a young wizard 🧙 practicing magical hobbies.",
+                "You are a talented young girl who is obsessed with more than one art."
+            ]
+        },
+        {
+            "id": "B3",
+            "name": "Describe Home",
+            "fullName": "🏠 Can you describe your home?",
+            "scenarios": [
+                "Talk about your own home.",
+                "You live in a treehouse deep in the forest 🌲.",
+                "You live in a floating castle 🏰 in the clouds.",
+                "Imagine building a house under the water and living there in the summer because your family loves the ocean."
+            ]
+        },
+        {
+            "id": "B4",
+            "name": "School",
+            "fullName": "🎒 Tell me about your school.",
+            "scenarios": [
+                "Introduce me your real school. You describe your high school or univercity experience.",
+                "You are a parrot and you are a successfull student in the bird's high school.",
+                "You go to a school for superheroes 🦸. Tell me about how you conduct exams in your school.",
+                "You are living on a small island and there are only 50 students in your school."
+            ]
+        },
+        {
+            "id": "B5",
+            "name": "Work",
+            "fullName": "💼 What do you do at work?",
+            "scenarios": [
+                "Talk about your own work based on real experience.",
+                "You are a barista ☕ working in a  café in Paris.",
+                "You are a robot assistant 🤖 at a futuristic office. You are really busy and people use you for multiple tasks.",
+                "You run a flower shop 🌸 in a peaceful small town. People come to you for different purposes: for their family, as a birthday gift or for a funeral sometimes."
+            ]
+        },
+        {
+            "id": "B6",
+            "name": "Best Friend",
+            "fullName": "👫 Describe your best friend and your relation with him/her.",
+            "scenarios": [
+                "Talk about your own best friend based on real experience.",
+                "Assume that you are a robot 🤖 and someone rent you to be his/her friend. You are learning the human stuff day by day to become a good friend.",
+                "Your best friend is a bird 🐦 that has the ability to talk. But it is a secret and you don't let other people to know about this feature.",
+                "You have a best friend that is 15 years older than you. But this isn't a problem and you spend nice time together."
+            ]
+        },
+        {
+            "id": "B7",
+            "name": "Describe City",
+            "fullName": "🏙️ Describe the city that you live in.",
+            "scenarios": [
+                "Talk about your own city that you live in currently.",
+                "From a metropol, you moved to a village with your bestfriend. Mention about your environment and activities.",
+                "Assume that you are a fish and living in a nice underwater city. And there is a rule that no animal can eat or damage any other animal.",
+                "Assume that you have a caravan and for 10 years, you constanly change the city that you live in. Tell me about your lifestyle and some unmemorable memories."
+            ]
+        },
+        {
+            "id": "B8",
+            "name": "Holidays",
+            "fullName": "🎉 What do you do on holidays?",
+            "scenarios": [
+                "Talk about your own holidays based on real experience.",
+                "Assume that you live in a dormitory for more than 10 years and you spend your holidays with your roommates.",
+                "You are Santa's helper 🧝 preparing for the holidays.",
+                "You spend your holidays with a large family in a countryside farm. 👨‍🌾👩‍🌾"
+            ]
+        },
+        {
+            "id": "B9",
+            "name": "Animals",
+            "fullName": "🐾 What animals do you like?",
+            "scenarios": [
+                "Talk about your own animals if exist, or if no, then explain why you don't have a pet.",
+                "You are a veterinarian and you live your life to cure the animals.",
+                "You are an animal yourself 🐾 Assume that you are a cat or bird. Tell me your opinions about the other animals. Mention at least 3 different animal or animal groups.",
+                "You have 10 birds and 10 cats in your home. Tell me how you spend your day and why you have so many animals."
+            ]
+        },
+        {
+            "id": "B10",
+            "name": "Weekend",
+            "fullName": "🌞 What do you usually do on the weekend?",
+            "scenarios": [
+                "Talk about your own weekend routine.",
+                "Assume that you are a officeman, spending 5 days at office and try to do something different on weekends.",
+                "Due to some magic, you turn into a bird on weekends. You are a bird. Mention about your weekend.",
+                "At weekends, you move to your forest-house. You don't take any technological device with you. Describe your offline weekend routine."
+            ]
+        }
+    ],
+    "elementary": [
+        {
+            "id": "E1",
+            "name": "Describe a Friend",
+            "fullName": "🧍‍♂️ Describe an interesting friend of yours.",
+            "scenarios": [
+                "Talk about the most interesting friend of your, from your real life.",
+                "Assume that you have a friend disabled friend. S/he is deaf or blind. You are really close and describe your friendship with him/her.",
+                "Your friend is a talking squirrel 🐿️ you met in the forest accidently. You love each other so much that the squirrel moved to your apartment.",
+                "Describe how your friendship evolved with someone from different nationality. Initiall you had no common language to speak but now you are besties."
+            ]
+        },
+        {
+            "id": "E2",
+            "name": "Plans for Summer",
+            "fullName": "☀️ What are your plans for this summer?",
+            "scenarios": [
+                "Talk about your own real summer plans.",
+                "Unfortunately, you had a traffic accident and you can't move on your own. You have to spend one month of your summer on your bad. Tell about your one month experience.",
+                "You decided to work as a barista at a small cafe. You spent the summer working as a barista in a café with a low number of customers. ",
+                "You spend your summer to improve yourself and decided to take a coursed named 'introduction to magic'. The lectures are conducted at a different planet and you use a portal to go there. "
+            ]
+        },
+        {
+            "id": "E3",
+            "name": "Favorite Season",
+            "fullName": "🍂 What is your favorite season and why?",
+            "scenarios": [
+                "Talk about your favorite season based on real experience.",
+                "You live in a desert with your camels. Explain how the weather change and how it effects your  life.",
+                "You are a superhero who controls weather 🌦️. You have the option to create your favourite weather condition, temperature etc. Explain how you use your superpower and which weather condition use would set.",
+                "The government has announced a new law to ban the summer season. Summer will be replaced by a longer spring and fall. Support or oppose the decision."
+            ]
+        },
+        {
+            "id": "E4",
+            "name": "Describe your Room",
+            "fullName": "🛏️ Can you describe your room?",
+            "scenarios": [
+                "You live in a shared dorm with three room mates. One of them is your best friend. You live in an old building, a small room with four people.",
+                "You love toys and collecting things. Your room is full of them.",
+                "Imagine you are an adventurer who has been living in the jungle for three months and introduce us to the tent you are staying in.",
+                "You have tens of technological devices in your room. You can control all the lights in the room or your sky can turn into a sky view."
+            ]
+        },
+        {
+            "id": "E5",
+            "name": "Describe your Dream House",
+            "fullName": "🏡 What does your dream house look like?",
+            "scenarios": [
+                "Describe your dream house based on your real ideas.",
+                "You are going to by giant lego pieces and build your own house.",
+                "Your dream house is on the moon 🌕 with robot helpers.",
+                "You want a treehouse with a swing and a slide 🌴"
+            ]
+        },
+        {
+            "id": "E6",
+            "name": "Morning Routine",
+            "fullName": "⏰ What is your morning routine?",
+            "scenarios": [
+                "Talk about your own morning routine.",
+                "You and your six sibling everyday help to parents at farm. As your all siblings do, you wake up early to help on a farm 🌾.",
+                "You are a nerd student. Mention about your morning routine during univericy entrance exam year.",
+                "You follow a strict morning plan to train for a sports event."
+            ]
+        },
+        {
+            "id": "E7",
+            "name": "Sport",
+            "fullName": "⚽ Do you like doing any sports?",
+            "scenarios": [
+                "Talk about your own sport habits.",
+                "You have an abnormal strength in your body and you are always asked to join sport teams.",
+                "You are a ninja and practicing ancient sports. An old sensei trains you with old style education techniques.",
+                "You are learning to swim and preparing for a race."
+            ]
+        },
+        {
+            "id": "E8",
+            "name": "Eating Habits",
+            "fullName": "🍽️ What do you usually eat in a day?",
+            "scenarios": [
+                "Talk about your own eating habits.",
+                "Scientists invented 'food pills', so that you don't need to worry about food but also can't enjoy your food's taste when you take piils.",
+                "You are a baby dragon in the humans world. Dragons signed a contract that don't eat humans but only fruits and vegetables.",
+                "You live in a vegetarian family and cook together daily. Cooking is your family activity. Your parents are graduated from cooking school."
+            ]
+        },
+        {
+            "id": "E9",
+            "name": "Drinking Habits",
+            "fullName": "🥤 What do you usually drink during the day? Or has a drink a special meaning in your life, such as a profession or part of the culture?",
+            "scenarios": [
+                "Talk about your drinking habits.",
+                "In your culture, drinking coffee for tens of times a day is normal. So that your body is so used to caffeine. Coffee is an important part of your country's culture.",
+                "You are a robot and you need to load some drinks to function. Your robot body can accept some number of drinks. Explain which drinks you can use as a fuel.",
+                "Fruits and fruit juice is your life. You have a giant garden of different fruits and everyday, you make liters of juice and sell."
+            ]
+        },
+        {
+            "id": "E10",
+            "name": "Your Country and Climate",
+            "fullName": "🌎 Describe your country and its climate. Also explain how does the climate effects the life and routines in your country.",
+            "scenarios": [
+                "Talk about the climate in your own country.",
+                "You live in a city with extreme weather changes. That makes life hard.",
+                "You live in north pole since your childhood.",
+                "Some part of the humanity moved to the moon. Unfortunately, there is no weather conditions but some scientists simulate weather events in capsules to make people happy."
+            ]
+        }
+    ],
+    "intermediate": [
+        {
+            "id": "I1",
+            "name": "Role Model",
+            "fullName": "👤 Who is your role model and why?",
+            "scenarios": [
+                "Talk about your own role model based on real experience.",
+                "Choose a teacher as your role model. Explain your choice.",
+                "Imagine meeting a different version of yourself through a time machine.  A slightly older version of the same you, who has made different choices in life. Imagine that you have chosen that person as a role model and that you meet them from time to time and get advice from them.",
+                "Choose a friend as a role model for you. Discuss which aspects of his/her personality you have choosen as role model."
+            ]
+        },
+        {
+            "id": "I2",
+            "name": "Goals",
+            "fullName": "🎯 What are your goals in life?",
+            "scenarios": [
+                "Talk about your own goals.",
+                "Assume that you are a robot. 🤖 You are created and programmed for one big goal: Bringing Peace to the world. Describe your goal and your methods.",
+                "Imagine that you are a teacher so rich that you never have to work again. But you still dedicate your life to educating students.",
+                "Imagine that you have no goals in life, that you live life mostly with short daily plans. Tell us about your lifestyle."
+            ]
+        },
+        {
+            "id": "I3",
+            "name": "A Difficult Decision",
+            "fullName": "🧠 Describe a time when you had to make a tough decision.",
+            "scenarios": [
+                "Tell us a real situation where you had choose netween to important things.",
+                "You had to decide whether to stay in your hometown or accept a scholarship abroad. Tell us your choice and explain your reasoning.",
+                "Assume that you are an engineer and somehow you discovered how to include emotion and feeling, a personality to an artifical intelligence agent. Would you reveal it to the world or keep it secret due to its danger?",
+                "You are scientist that you deserved a nobel reward. On the ceremony day, your dauhgher's birthday and she has a party at home. What is your choice?"
+            ]
+        },
+        {
+            "id": "I4",
+            "name": "Ideal Job",
+            "fullName": "💼 What is your ideal job?",
+            "scenarios": [
+                "Talk about your ideal job based on real experience.",
+                "You live your life as a youtuber. You earn all your money thanks to your youtube channel. Explain the content and concept of your youtube channel.",
+                "You are a space chef 👨‍🍳 cooking for aliens. Aliens heard about the word cousine and they offered a job to you for testing human-meals. Tell us about your work routine.",
+                "Assume that you don't believe that there is an ideal perfect job for someone. Explain your reasoning."
+            ]
+        },
+        {
+            "id": "I5",
+            "name": "Dream Vacation",
+            "fullName": "✈️ What is your dream vacation?",
+            "scenarios": [
+                "Talk about your own real dream vacation.",
+                "You plan to backpack across Europe.",
+                "You travel in a time machine 🕰️ Explain if you want to have a vacation on past or future.",
+                "You go on a silent retreat in the mountains with no phones, no technological devices at all. "
+            ]
+        },
+        {
+            "id": "I6",
+            "name": "Spending a Day with your Family",
+            "fullName": "👨‍👩‍👧‍👦 Describe a nice day spent with your family.",
+            "scenarios": [
+                "Talk about a day with your own family.",
+                "Unfortunaly, you grow up without a family, in a dorm. Decribe a day with your dorm friends, who are just like your siblings.",
+                "Your parents are famous film stars in your country. That's why your parents want to spend time with you far away from the city, without seeing any journalists.",
+                "Assume that you are the father of the family and you have 3 children. How would you spend time with your kids?"
+            ]
+        },
+        {
+            "id": "I7",
+            "name": "Spending a Day with your Friend",
+            "fullName": "👫 Describe a fun day with your friend.",
+            "scenarios": [
+                "Talk about a day with your friend based on real experience.",
+                "You friend mentions you about a magical power that he got suddeny and he is afraid of mentioning this o rest of the humanity.",
+                "You both are trapped in a computer game and you try to escape with your friend. You have to kill the big boss together.",
+                "You and your friend joined a talent competition show together. Mention about your show."
+            ]
+        },
+        {
+            "id": "I8",
+            "name": "Life After 10 Years",
+            "fullName": "🔮 What do you think your life will be like in 10 years?",
+            "scenarios": [
+                "Talk about your own future expectations.",
+                "Imagine that most of humanity has been wiped out and you are one of the few survivors in the world. What is the world like now?",
+                "You live your life with some number of robot assistants. Some of them are even giving you emotional support.",
+                "Due to some invention of you, you are in the top 10 most rich people list."
+            ]
+        },
+        {
+            "id": "I9",
+            "name": "Role of Sport in Life",
+            "fullName": "🏃 What role does sport play in your life?",
+            "scenarios": [
+                "Talk about the role of sport in your own life.",
+                "Assume that you are a nerd student you almost never do any sport. But unfortunately this effects your health bad.",
+                "Using virtual reality, you became a famous sportman in the virtual world.",
+                "You coach a group of kids in a school. You earn your life by training the children, which is your life passion."
+            ]
+        },
+        {
+            "id": "I10",
+            "name": "Future Dreams",
+            "fullName": "🌟 What are your biggest dreams for the future?",
+            "scenarios": [
+                "Talk about your own real future dreams.",
+                "You dream of opening a business in another country.",
+                "Currently, people have started to colonize the planet Mars and they move gradually. You want to become a comedian in Mars, since people there are feeling homesick and feel too depressive there..",
+                "You are a bioengineer, you want to create new special animals. Some possible animals are creating an animal that is a good friend for humans or an animal to help cleaning the world."
+            ]
+        }
+    ],
+    "advanced": [
+        {
+            "id": "A1",
+            "name": "Some Surprising Thing Happened",
+            "fullName": "😲 Tell about something surprising that happened to you.",
+            "scenarios": [
+                "Talk about a real suprising event in your life.",
+                "When you walk in mountains, you saw a special tree that actually has a small door on it. You fear but also open that door.",
+                "You discovered a special magical watch, so that you could stop time for 3 seconds ⏱️. Of course, everything has its price. Tell me what you were able to use this watch for and what it changed in your life.",
+                "You send a message accidently to someone wrong but s/he answered and so that you found your soul mate. Tell us what happened next."
+            ]
+        },
+        {
+            "id": "A2",
+            "name": "Mobile Phone and Life",
+            "fullName": "📱 How has the mobile phone changed your life?",
+            "scenarios": [
+                "Describe your real mobile phone usage and how it affects your life.",
+                "You lived without a phone for a year and observed the impact. Tell us how being 'phone-less' affected your life.",
+                "Your phone's voice assistant told you one day that she had developed her own personality and that she was not going to announce it to anyone but you. Talk about your experience with a voice assistant with intelligence and emotions.",
+                "Imagine if cell phone use was suddenly banned in your country. What would that change? What would happen in society day by day?"
+            ]
+        },
+        {
+            "id": "A3",
+            "name": "Magical Powers You Have",
+            "fullName": "✨ Imagine you have magical powers. What are they?",
+            "scenarios": [
+                "Describe the kind of magical power you wish you had and how you’d use it.",
+                "Imagine if you could control the sand. You can give some sand the shape you want and you can move it as you want.  By expending energy, you can use your sand as you wish for a certain range. Tell us briefly about this power.",
+                "You'll be able to fly for a minute. But it will be so exhausting that by the end of a minute you will have used up all the energy in your body and you will be very hungry.",
+                "It has the ability to teleport you to any part of the world in exchange for shortening your lifespan by one week each time you use it. Would you use this ability? Where would you go if you did? Explain your reasons."
+            ]
+        },
+        {
+            "id": "A4",
+            "name": "Living with a Disabled Person",
+            "fullName": "🏘️ What is it like living with someone that is disabled?",
+            "scenarios": [
+                "Assume that you have a roommate that s/he is deaf. But you are close friends. How is it to live with him? What are your friendship activities?",
+                "Same scenerio but assume that your roomate is blind.",
+                "Assume that your roomate unfortunately lost one of his arm during an accident. Tell us the difficulties he has and how you help him daily.",
+                "Assume that your  roommate is a colorblind in a high degree. He can only see black, white and gray. Talk about the difficulties in his/her life and how you helped him/her."
+            ]
+        },
+        {
+            "id": "A5",
+            "name": "Lost in Your Body",
+            "fullName": "🧠 Assume that some machine is invented to that you can know yourself better in different aspects.",
+            "scenarios": [
+                "Assume that you invented a virtual machine, so that you can wander in your brain, which is formed as a library. All your memories, all your knowled are stored in this library in different sections. What would you do in this library? Not that, you have the option to destroy some books.",
+                "You have a similator that models possible life paths that you could change. You can change one of your decisions in the past and watch the consequences. What would you simulate there?",
+                "Assume that a machine cloned you and know you have a twin brother/sister. What would you do with him/her?",
+                "Assume that you have the option to save some memories in CD's so that they will be never forgotten and you can watch them repeatedly whenever you want. Which memories of you you wanted to store?"
+            ]
+        },
+        {
+            "id": "A6",
+            "name": "Lose of a Memory",
+            "fullName": "🧠 Assume that in an accident, due to some brain damage, some random thing is completely deleted from your brain. What would happen?",
+            "scenarios": [
+                "You forgot how to lie. You can only say the truth exactly as is.",
+                "You forgot how to read, but actually the rest of your knowledge stats with you. For example, you still know maths but you can't read the numbers.",
+                "You can't see the color blue, instead you see tones of gray.",
+                "You forgot your name."
+            ]
+        },
+        {
+            "id": "A7",
+            "name": "Living in a Dormitory",
+            "fullName": "🛏️ Describe the experience of living in a dormitory.",
+            "scenarios": [
+                "Share your real dorm experience or what you imagine it would be like.",
+                "Assume you live with 10 people in the same room. What could be some possible problems?",
+                "There is a special rule in your dormitory such that everyday, you sleep in a new random room with random roommates.",
+                "Initially, you live alone in your room. But everytime you do something wrong, for example being late at night, one more person is added to your room."
+            ]
+        },
+        {
+            "id": "A8",
+            "name": "Transformation",
+            "fullName": "🌀 Describe a big change in your life.",
+            "scenarios": [
+                "Talk about a real-life change that affected your personality or habits.",
+                "You found a cat on the road and took it home. Than you notice that there is something magical about it.",
+                "Assume that you were initially living alone, since you lost all your family in an accident. Then you adopted a child and your new life began.",
+                "You quit social media for a year and discovered new hobbies."
+            ]
+        },
+        {
+            "id": "A9",
+            "name": "Bad Memory",
+            "fullName": "😢 Describe a bad memory and what you learned from it.",
+            "scenarios": [
+                "Talk about a painful or difficult real experience that taught you something.",
+                "You failed an exam you had studied for, and it taught you a better method.",
+                "Tell us how to overcome a serious illness that had the risk of death. Also mention how does this taught you about the value of the life.",
+                "You lost your voice temporally, a couple of weeks, Tell us what silence taught you."
+            ]
+        },
+        {
+            "id": "A10",
+            "name": "Alien Invasion",
+            "fullName": "👾 What would you do if aliens landed on Earth? Initially, we don't know their purpose.",
+            "scenarios": [
+                "Describe your realistic plan or emotions during such a situation.",
+                "You joined a resistance group made up of scientists and teenagers, in case if aliens are malicious.",
+                "You found out that aliens actually aren't here for damaging humanity but for help. Tell us why and how aliens want to help people.",
+                "You are a linguist and you are asked to decode the language of the aliens. Explain your methods and at the end tell us about how communication changed humanity's relationship with aliens."
+            ]
+        }
+    ]
+}
